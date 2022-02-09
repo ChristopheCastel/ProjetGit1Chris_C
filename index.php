@@ -14,7 +14,7 @@
         <header>
             <nav class="navbar navbar-expand-md navbar-dark bg-dark" aria-label="Fourth navbar example">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#">Expand at md</a>
+                    <a class="navbar-brand" href="#"><img src="../ProjetGit1Chris_C/imgs/clip-art-avion.png" height="50px" width="50px" alt=""></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -38,6 +38,9 @@
                                     <li><a class="dropdown-item" href="#">A propos</a></li>
                                 </ul>
                             </li>
+                            <li>
+                                <a class="btn btn-primary" data-bs-toggle="offcanvas" href="#offcanvasExample" role="button" aria-controls="offcanvasExample">Informations</a>
+                            </li>
                         </ul>
                         <form>
                             <input class="form-control" type="text" placeholder="Search" aria-label="Search">
@@ -45,6 +48,31 @@
                     </div>
                 </div>
             </nav>
+
+
+            <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
+            <div class="offcanvas-header">
+                <h5 class="offcanvas-title" id="offcanvasExampleLabel">Informations</h5>
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body">
+                <div>
+                Some text as placeholder. In real life you can have the elements you have chosen. Like, text, images, lists, etc.
+                </div>
+                <div class="dropdown mt-3">
+                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown">
+                    Dropdown button
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton">
+                    <li><a class="dropdown-item" href="#">Action</a></li>
+                    <li><a class="dropdown-item" href="#">Another action</a></li>
+                    <li><a class="dropdown-item" href="#">Something else here</a></li>
+                </ul>
+                </div>
+            </div>
+            </div>
+
+            
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -73,19 +101,20 @@
 
         <main>
 
-            <h1 class="text-center mt-3">Mon 1er Projet Git</h1>
+            <h1 class="text-center my-5">Mon 1er Projet Git</h1>
 
             <div class="container">
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae necessitatibus dicta exercitationem libero quia, ratione labore, sed modi possimus explicabo repellendus esse aut culpa ipsam animi est sint.
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam itaque molestias dolorum assumenda qui praesentium quos. Ex reiciendis earum repudiandae quaerat architecto officia nobis deleniti, tempora quidem velit adipisci hic totam minima, aperiam esse iure sint! A sequi rem recusandae earum distinctio, voluptatem eum cum ratione porro commodi at eveniet fugiat. Consequuntur, saepe harum impedit dicta quod, quisquam, officiis praesentium at magni nulla animi enim earum expedita ea repellat? Temporibus, assumenda a? Nam quasi eveniet ad vero unde voluptatibus sit veniam? Eum quia voluptatum dignissimos laborum corrupti exercitationem ipsum doloremque?
+                Consequuntur, saepe harum impedit dicta quod, quisquam, officiis praesentium at magni nulla animi enim earum expedita ea repellat? Temporibus, assumenda a? Nam quasi eveniet ad vero unde voluptatibus sit veniam? Eum quia voluptatum dignissimos laborum corrupti exercitationem ipsum doloremque?
 
             </div>
 
         </main>
 
-        <footer class="bg-dark text-center text-white py-3">
+    <footer class="bg-dark text-center text-white py-3">
             &copy; 2022 - TM - MonProjetGit - Tous droits réservés
-        </footer>
+    </footer>
 
 
 
