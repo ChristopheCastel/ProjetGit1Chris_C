@@ -107,9 +107,14 @@
 
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae necessitatibus dicta exercitationem libero quia, ratione labore, sed modi possimus explicabo repellendus esse aut culpa ipsam animi est sint.
                 </p>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam itaque molestias dolorum assumenda qui praesentium quos. Ex reiciendis earum repudiandae quaerat architecto officia nobis deleniti, tempora quidem velit adipisci hic totam minima, aperiam esse iure sint! A sequi rem recusandae earum distinctio, voluptatem eum cum ratione porro commodi at eveniet fugiat. Consequuntur, saepe harum impedit dicta quod, quisquam, officiis praesentium at magni nulla animi enim earum expedita ea repellat? Temporibus, assumenda a? Nam quasi eveniet ad vero unde voluptatibus sit veniam? Eum quia voluptatum dignissimos laborum corrupti exercitationem ipsum doloremque?
-                Consequuntur, saepe harum impedit dicta quod, quisquam, officiis praesentium at magni nulla animi enim earum expedita ea repellat? Temporibus, assumenda a? Nam quasi eveniet ad vero unde voluptatibus sit veniam? Eum quia voluptatum dignissimos laborum corrupti exercitationem ipsum doloremque?
-                </p>
+                <div class="card" style="width: 18rem;">
+                    <img src="../Projet_Git_TM/img/Paysage4.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                    <h5 class="card-title">Card title</h5>
+                    <p class="card-text">L'endroit idéal pour ken ...</p>
+                    <a href="#" class="btn btn-primary">Go somewhere</a>
+                </div>
+</div>
             </div>
 
         </main>
