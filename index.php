@@ -105,16 +105,14 @@
             <div class="container">
 
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae necessitatibus dicta exercitationem libero quia, ratione labore, sed modi possimus explicabo repellendus esse aut culpa ipsam animi est sint.
-                </p>
-                <div class="card" style="width: 18rem;">
-                    <img src="../Projet_Git_TM/img/Paysage4.jpg" class="card-img-top" alt="...">
-                    <div class="card-body">
-                    <h5 class="card-title">Card title</h5>
-                    <p class="card-text">L'endroit idéal pour ken ...</p>
-                    <a href="#" class="btn btn-primary">Go somewhere</a>
+
+                <p>!!! ICI C PARIS !!!</p>
+                <div class="d-flex align-items-center">
+                <strong>Loading...</strong>
+                <div class="spinner-border ms-auto" role="status" aria-hidden="true"></div>
                 </div>
-</div>
+                
+
             </div>
 
         </main>
