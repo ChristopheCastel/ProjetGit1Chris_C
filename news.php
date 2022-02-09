@@ -14,7 +14,7 @@
         <header>
             <nav class="navbar navbar-expand-md navbar-dark bg-dark" aria-label="Fourth navbar example">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="index.php"><img src="../ProjetGit1Chris_C/imgs/clip-art-avion.png" height="50px" width="50px" alt=""></a>
+                    <a class="navbar-brand" href="#"><img src="../ProjetGit1Chris_C/imgs/clip-art-avion.png" height="50px" width="50px" alt=""></a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarsExample04" aria-controls="navbarsExample04" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="navbar-toggler-icon"></span>
                     </button>
@@ -22,10 +22,10 @@
                     <div class="collapse navbar-collapse" id="navbarsExample04">
                         <ul class="navbar-nav me-auto mb-2 mb-md-0">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
+                                <a class="nav-link active" aria-current="page" href="#">Home</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="news.php">News</a>
+                                <a class="nav-link" href="#">Link</a>
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link disabled">Disabled</a>
@@ -100,17 +100,52 @@
 
         <main>
 
-            <h1 class="text-center my-5">Mon 1er Projet Git</h1>
+            <h1 class="text-center my-5">News du mois de février</h1>
 
-            <div class="container">
+            <div class="accordion accordion-flush" id="accordionFlushExample">
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingOne">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
+                    LIGUE 1. DAVID BETTONI, L'ANCIEN ADJOINT DE ZIDANE, NOUVEL ENTRAINEUR DE BORDEAUX ?
+                    
+                    </button>
+                    </h2>
+                    <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+                    <div class="accordion-body">Toujours à la recherche du successeur de Vladimir Petkovic, mis à pied après la défaite à Reims (5-0) ce week-end, les Girondins de Bordeaux étudient la piste menant à David Bettoni, l’ancien adjoint de Zinedine Zidane sur le banc du Real Madrid.</div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                    PSG : UN CADRE SE BLESSE ET DEVRAIT MANQUER LE CHOC FACE AU REAL MADRID !
+                    </button>
+                    </h2>
+                    <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body"><p>Mauricio Pochettino se serait bien passé de cette nouvelle. A quelques jours du choc face au Real Madrid, prévu le 15 février pour les huitièmes de finale aller de la Ligue des Champions, le Paris Saint-Germain a appris la blessure de l’un de ses joueurs. Comme confirmé par L’Équipe, Leandro Paredes souffre des adducteurs.</p>
 
+                        <p>Le milieu de terrain argentin ne devrait pas être disponible pour la réception du Stade Rennais ce vendredi en Ligue 1. Surtout, il devrait manquer le choc face au Real Madrid. Un vrai coup dur pour le PSG, déjà amputé d’Ander Herrera dans l’entrejeu. En revanche, Wijnaldum est de retour.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="accordion-item">
+                    <h2 class="accordion-header" id="flush-headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseThree" aria-expanded="false" aria-controls="flush-collapseThree">
+                    PSG : ZIDANE AURAIT POSÉ UNE PREMIÈRE CONDITION FOLLE POUR DÉBARQUER À PARIS !
+                    </button>
+                    </h2>
+                    <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
+                        <div class="accordion-body"><p>Dans les semaines qui viennent, l'avenir de Mauricio Pochettino du côté du PSG va forcément être un sujet épineux. Le technicien argentin voit son futur s'assombrir de semaine en semaine, un constat qui pourrait rapidement devenir évident si le PSG échouait dès les huitièmes de finale de Ligue des champions face au Real Madrid.</p>                       
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae necessitatibus dicta exercitationem libero quia, ratione labore, sed modi possimus explicabo repellendus esse aut culpa ipsam animi est sint.
-                </p>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam itaque molestias dolorum assumenda qui praesentium quos. Ex reiciendis earum repudiandae quaerat architecto officia nobis deleniti, tempora quidem velit adipisci hic totam minima, aperiam esse iure sint! A sequi rem recusandae earum distinctio, voluptatem eum cum ratione porro commodi at eveniet fugiat. Consequuntur, saepe harum impedit dicta quod, quisquam, officiis praesentium at magni nulla animi enim earum expedita ea repellat? Temporibus, assumenda a? Nam quasi eveniet ad vero unde voluptatibus sit veniam? Eum quia voluptatum dignissimos laborum corrupti exercitationem ipsum doloremque?
-                Consequuntur, saepe harum impedit dicta quod, quisquam, officiis praesentium at magni nulla animi enim earum expedita ea repellat? Temporibus, assumenda a? Nam quasi eveniet ad vero unde voluptatibus sit veniam? Eum quia voluptatum dignissimos laborum corrupti exercitationem ipsum doloremque?
-                </p>
-            </div>
+                        <p><strong>Zidane voudrait CR7 avec lui à Paris !</strong>
+                        Et ce d'autant plus qu'une ombre plane de manière insistante au dessus de sa tête. Zinédine Zidane, l'ancien coach du Real Madrid, est en effet annoncé avec insistance à Paris dans les prochains mois. Sauf que si l'on en croit les informations du Mirror reprises par Marca, Zizou aurait imposé une condition légendaire pour s'engager dans le club de la capitale !</p>
+
+                        <p>En effet, l'ancien technicien du Real Madrid aurait demandé ni plus ni moins que... Cristiano Ronaldo pour son nouveau projet ! Zidane aurait évidemment un souvenir très fort de sa collaboration gagnant avec CR7 et souhaiterait compter sur lui dans son nouveau challenge. La perspective totalement folle de pouvoir aligner Cristiano Ronaldo et Lionel Messi sous le même maillot va-t-elle convaincre les dirigeants qataris se tenter d'accéder à sa demande ?</p>
+                        </div>
+                    </div>
+                </div>
+            </div>  
+
+            
 
         </main>
 
