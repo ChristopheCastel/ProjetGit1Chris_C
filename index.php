@@ -45,6 +45,7 @@
                     </div>
                 </div>
             </nav>
+
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -78,6 +79,7 @@
             <div class="container">
 
                 <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae necessitatibus dicta exercitationem libero quia, ratione labore, sed modi possimus explicabo repellendus esse aut culpa ipsam animi est sint.
+                </p>
 
             </div>
 
