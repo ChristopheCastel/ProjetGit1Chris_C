@@ -45,11 +45,49 @@
                     </div>
                 </div>
             </nav>
-
+            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                    <img src="../ProjetGit1Chris_C/imgs/pexels-athena-2996188.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                    <img src="../ProjetGit1Chris_C/imgs/pexels-pixabay-207385 (2).jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                    <img src="../ProjetGit1Chris_C/imgs/pexels-pixabay-335.jpg" class="d-block w-100" alt="...">
+                    </div>
+                    <div class="carousel-item">
+                    <img src="../ProjetGit1Chris_C/imgs/pexels-pixabay-356830.jpg" class="d-block w-100" alt="...">
+                    </div>                   
+                </div>
+                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Previous</span>
+                </button>
+                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                    <span class="visually-hidden">Next</span>
+                </button>
+            </div>
         </header>
 
+        <main>
 
-        <h1 class="text-center mt-3">Mon 1er Projet Git</h1>
+            <h1 class="text-center mt-3">Mon 1er Projet Git</h1>
+
+            <div class="container">
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae necessitatibus dicta exercitationem libero quia, ratione labore, sed modi possimus explicabo repellendus esse aut culpa ipsam animi est sint.
+
+            </div>
+
+        </main>
+
+        <footer class="bg-dark text-center text-white py-3">
+            &copy; 2022 - TM - MonProjetGit - Tous droits réservés
+        </footer>
+
+
 
         <!-- Optional JavaScript; choose one of the two! -->
 
