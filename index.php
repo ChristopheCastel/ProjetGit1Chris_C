@@ -49,7 +49,6 @@
                 </div>
             </nav>
 
-
             <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasExample" aria-labelledby="offcanvasExampleLabel">
             <div class="offcanvas-header">
                 <h5 class="offcanvas-title" id="offcanvasExampleLabel">Informations</h5>
@@ -72,7 +71,7 @@
             </div>
             </div>
 
-            
+        
             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                 <div class="carousel-inner">
                     <div class="carousel-item active">
@@ -105,9 +104,12 @@
 
             <div class="container">
 
+
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae necessitatibus dicta exercitationem libero quia, ratione labore, sed modi possimus explicabo repellendus esse aut culpa ipsam animi est sint.
+                </p>
                 <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam itaque molestias dolorum assumenda qui praesentium quos. Ex reiciendis earum repudiandae quaerat architecto officia nobis deleniti, tempora quidem velit adipisci hic totam minima, aperiam esse iure sint! A sequi rem recusandae earum distinctio, voluptatem eum cum ratione porro commodi at eveniet fugiat. Consequuntur, saepe harum impedit dicta quod, quisquam, officiis praesentium at magni nulla animi enim earum expedita ea repellat? Temporibus, assumenda a? Nam quasi eveniet ad vero unde voluptatibus sit veniam? Eum quia voluptatum dignissimos laborum corrupti exercitationem ipsum doloremque?
                 Consequuntur, saepe harum impedit dicta quod, quisquam, officiis praesentium at magni nulla animi enim earum expedita ea repellat? Temporibus, assumenda a? Nam quasi eveniet ad vero unde voluptatibus sit veniam? Eum quia voluptatum dignissimos laborum corrupti exercitationem ipsum doloremque?
-
+                </p>
             </div>
 
         </main>
