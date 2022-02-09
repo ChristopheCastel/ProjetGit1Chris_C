@@ -105,11 +105,12 @@
             <div class="container">
 
 
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis molestiae necessitatibus dicta exercitationem libero quia, ratione labore, sed modi possimus explicabo repellendus esse aut culpa ipsam animi est sint.
-                </p>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aliquam itaque molestias dolorum assumenda qui praesentium quos. Ex reiciendis earum repudiandae quaerat architecto officia nobis deleniti, tempora quidem velit adipisci hic totam minima, aperiam esse iure sint! A sequi rem recusandae earum distinctio, voluptatem eum cum ratione porro commodi at eveniet fugiat. Consequuntur, saepe harum impedit dicta quod, quisquam, officiis praesentium at magni nulla animi enim earum expedita ea repellat? Temporibus, assumenda a? Nam quasi eveniet ad vero unde voluptatibus sit veniam? Eum quia voluptatum dignissimos laborum corrupti exercitationem ipsum doloremque?
-                Consequuntur, saepe harum impedit dicta quod, quisquam, officiis praesentium at magni nulla animi enim earum expedita ea repellat? Temporibus, assumenda a? Nam quasi eveniet ad vero unde voluptatibus sit veniam? Eum quia voluptatum dignissimos laborum corrupti exercitationem ipsum doloremque?
-                </p>
+                <p>!!! ICI C PARIS !!!</p>
+                <div class="d-flex align-items-center">
+                <strong>Loading...</strong>
+                <div class="spinner-border ms-auto" role="status" aria-hidden="true"></div>
+                </div>
+                
             </div>
 
         </main>
